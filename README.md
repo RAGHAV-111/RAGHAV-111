@@ -14,7 +14,7 @@
 * 🤖 Interested in **AI Engineering, LLMs, RAG, and AI-powered applications**
 * 🐍 Building backend applications using **Python, FastAPI, REST APIs, and SQL**
 * 🧠 Practicing **Data Structures & Algorithms and System Design**
-* 🚀 Currently looking for opportunities as a **Python Backend / AI Engineer**
+* 🚀 Currently looking for opportunities as a **AI Engineer**
 * 🌍 Interested in working with **European and American companies**
 * 📫 Reach me at **[raghavdwivedi111@gmail.com](mailto:raghavdwivedi111@gmail.com)**
 * 📄 Know more about my experience: [Resume](https://drive.google.com/file/d/1cHnlvQ3933o8DRE70nBma8RgV8s5zW8p/view?usp=sharing)
