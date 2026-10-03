@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 I'm currently working as a **AI Engineer**
+* 🔭 I'm currently working as an **AI Engineer**
 * 🤖 Interested in **AI Engineering, LLMs, RAG, and AI-powered applications**
 * 🐍 Building backend applications using **Python, FastAPI, REST APIs, and SQL**
 * 🧠 Practicing **Data Structures & Algorithms and System Design**
